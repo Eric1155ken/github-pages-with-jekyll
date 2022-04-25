@@ -1,5 +1,5 @@
 rt
 ---
-title: "YOUR-TITLE"
-date: YYYY-MM-DD
+title: "rty"
+date: 2022-07-18
 ---
